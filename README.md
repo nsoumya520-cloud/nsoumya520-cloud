@@ -1,3 +1,12 @@
+Hi! I'm Soumya Ranjan Nayak, a Data Science graduate with a passion for turning raw data into meaningful insights that help solve real-world business problems.
+
+Over the past year, I've developed hands-on experience with SQL, Python, Excel, and Power BI through projects focused on customer behavior analysis and traffic data analytics. I enjoy cleaning and analyzing data, building interactive dashboards, and uncovering trends that support better decision-making.
+
+What excites me most about data analytics is the opportunity to ask the right questions, find patterns, and create solutions that make an impact. I'm constantly learning, improving my technical skills, and exploring new tools to become a better analyst.
+
+I'm currently seeking entry-level opportunities and internships in Data Analytics or Business Analytics where I can contribute, grow, and learn from experienced professionals. If you're looking for someone who is curious, hardworking, and eager to make a difference, I'd love to connect and collaborate!
+
+#DataAnalytics #BusinessAnalytics #SQL #Python #PowerBI #Excel #DataScience #OpenToWork
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/soumyanayak-analyst/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nsoumya520@gmail.com) 
